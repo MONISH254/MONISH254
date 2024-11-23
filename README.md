@@ -22,6 +22,11 @@ I'm a data scientist and graduate architect passionate about leveraging analytic
 
 - Learning and experimenting with new tools and technologies to stay at the forefront of innovation  
 
+## 📊 GitHub Stats
+
+![Monica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MONISH254&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MONISH254&layout=compact&theme=radical)
 
 
 Feel free to connect with me or explore my repositories to see what I'm working on! 🚀

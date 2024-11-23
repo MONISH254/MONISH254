@@ -10,7 +10,7 @@ I'm a data scientist and graduate architect passionate about leveraging analytic
 
 
 
-## Find me around the we"></a>
+## Find me around the web 🌎:
 
 
 

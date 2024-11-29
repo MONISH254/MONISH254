@@ -21,22 +21,6 @@
 
 ---
 
-## 📌 Pinned Projects
-
-### 🌟 **Employee Attrition Prediction**
-- A machine learning model to predict employee turnover, leveraging classification algorithms with 85% F1-score.
-- Tools: Python, Scikit-Learn, Matplotlib, Tableau.
-
-### 🚀 **Customer Segmentation Analysis**
-- Performed clustering analysis to segment customers and recommend marketing strategies.
-- Tools: Python, KMeans, Seaborn.
-
-### 🔥 **Real Estate Price Prediction**
-- Built a regression model to predict house prices based on location and features, achieving 90% R² score.
-- Tools: Python, XGBoost, PowerBI.
-
----
-
 ## 📜 Certifications
 - [Data Science Professional Certificate](https://example.com) - IBM
 - [SQL for Data Science](https://example.com) - Coursera

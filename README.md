@@ -20,13 +20,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0076A8?style=for-the-badge&logoColor=white)
 
 ---
-
-## 📜 Certifications
-- [Data Science Professional Certificate](https://example.com) - IBM
-- [SQL for Data Science](https://example.com) - Coursera
-- [Machine Learning](https://example.com) - Andrew Ng (Stanford University)
-
----
 ## 📊 GitHub Stats
 
 ![Monica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MONISH254&show_icons=true&theme=default&count_private=true)
